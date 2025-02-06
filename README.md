@@ -4,10 +4,6 @@
 <h1 align="center">Hi 👋, I'm Bhaskar</h1>
 <h3 align="center">A passionate AWS DevOps Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devops0014&label=Profile%20views&color=0e75b6&style=flat" alt="devops0014" /> </p>
-
-</p>
-
 - 💬 Ask me about **Devops & AWS**
 
 <h3 align="left">Connect with me:</h3>
